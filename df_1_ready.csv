@@ -1,0 +1,493 @@
+RM
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+17
+18
+19
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+42
+43
+44
+45
+46
+49
+51
+61
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+141
+142
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+171
+181
+183
+184
+185
+186
+187
+189
+190
+191
+193
+194
+211
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+228
+229
+230
+231
+232
+241
+243
+244
+245
+246
+247
+248
+250
+251
+252
+253
+254
+255
+256
+257
+259
+260
+261
+271
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+290
+292
+301
+303
+304
+305
+307
+308
+309
+310
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+331
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+349
+350
+351
+352
+366
+367
+368
+369
+370
+371
+372
+373
+376
+377
+378
+379
+380
+381
+382
+394
+395
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+409
+410
+411
+426
+427
+428
+429
+430
+431
+434
+435
+436
+437
+438
+439
+440
+442
+456
+457
+458
+459
+460
+461
+463
+464
+466
+467
+468
+469
+470
+471
+472
+486
+487
+488
+490
+491
+493
+494
+496
+497
+498
+499
+501
+502
+520
+521
+555
+561
+588
+622
+Acadia
+Alexander
+Alonsa
+Argyle
+Armstrong
+Athabasca
+Badlands
+Barrhead
+Beaver
+Bifrost-Riverton
+Big Lakes
+Birch Hills
+Boissevain-Morton
+Bonnyville
+Brandon
+Brazeau
+Brenda-Waskada
+Brokenhead
+Camrose
+Cardston
+Cartier
+Cartwright-Roblin
+Clanwilliam-Erickson
+Clear Hills
+Clearwater
+Coldwell
+Cornwallis
+Cypress
+Dallas/Red Rose
+Dauphin
+Deloraine-Winchester
+Desalaberry
+Dufferin
+East St Paul
+Edmonton
+Ellice-Archie
+Elton
+Emerson-Franklin
+Ethelbert
+Fairview
+Fisher
+Flagstaff
+Foothills
+Forty Mile
+Gilbert Plains
+Gimli
+Glenboro-South Cypress
+Glenella-Lansdowne
+Grahamdale
+Grande Prairie
+Grandview
+Grassland
+Greenview
+Grey
+Hamiota
+Hanover
+Harrison Park
+Harwill
+Headingley
+Homebrook-Peonan Point
+I.D. No. 13 (Elk Island)
+I.D. No. 4 (Waterton)
+Hillsburg-Roblin-Shell River
+Kananaskis Improvement District
+Kelsey
+Killarney-Turtle Mtn
+Kneehill
+La Broquerie
+Lac Du Bonnet
+Lac La Biche
+Lac Ste. Anne County
+Lacombe
+Lakeshore
+Lamont
+Leduc
+Lesser Slave River
+Lethbridge
+Lorne
+Louise
+Macdonald
+Mackenzie
+Mccreary
+Meadow Portage
+Minburn
+Minitonas-Bowsman
+Minto-Odanah
+Montcalm
+Morris
+Mossey River
+Mountain
+Mountain View
+Municipal District Of Acadia No. 34
+Municipal District Of Bighorn No. 8
+Municipal District Of Bonnyville No. 87
+Municipal District Of Fairview No. 136
+Municipal District Of Greenview No. 16
+Municipal District Of Lesser Slave River No. 124
+Municipal District Of Opportunity No. 17
+Municipal District Of Peace No. 135
+Municipal District Of Ranchland No. 66
+Municipal District Of Smoky River No. 130
+Municipal District Of Spirit River No. 133
+Municipal District Of Taber
+Municipality Of Crowsnest Pass
+Newell
+Norfolk-Treherne
+North Cypress-Langford
+North Norfolk
+Northern Lights
+Northern Sunrise
+Oakland-Wawanesa
+Oakview
+Opportunity
+Paintearth
+Parkland County
+Peace
+Pembina
+Pinawa
+Pincher Creek
+Piney
+Pipestone
+Ponoka
+Portage La Prairie
+Prairie Lakes
+Prairie View
+Provost
+Red Deer
+Reynolds
+Rhineland
+Riding Mountain West
+Ritchot
+Riverdale
+Roblin
+Rockwood
+Rocky View
+Roland
+Rosedale
+Rossburn
+Rosser
+Russell-Binscarth
+Saddle Hills
+Salt Point
+Saskatchewan
+Sifton
+Smoky Lake
+Smoky River
+Souris-Glenwood
+Special Area 02
+Special Area 03
+Special Area 04
+Spirit River
+Springfield
+St. Andrews
+St. Clements
+St Laurent
+St. Francis Xavier
+St. Paul
+Stanley
+Starland
+Ste. Anne
+Ste. Rose
+Stettler
+Strathcona County
+Stuartburn
+Sturgeon
+Swan Valley West
+Taber
+Tache
+Thompson
+Thorhild
+Two Borders
+Two Hills
+Unorg Territory
+Vermilion River
+Victoria
+Virden
+Vulcan
+Wainwright
+Wallace-Woodworth
+Warner
+Waterhen
+West Interlake
+West St. Paul
+Westlake-Gladstone
+Westlock
+Wetaskiwin
+Wheatland
+Whitehead
+Whitemouth
+Willow Creek
+Winnipeg
+Woodlands
+Woodlands County
+Yellowhead
+Yellowhead County
